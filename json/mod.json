@@ -1,8 +1,8 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": "1",
   "label": "SIL Patches",
   "labelColor": "darkgreen",
   "message": "1.0.0.0",
   "color": "orange",
-  "style": "plastic"  
+  "style": "plastic"
 }
