@@ -5,7 +5,7 @@ updated: 2020 03 16 -->
 
 ## Download on [SpaceDock][MOD:rel-spacedock] or [Github][MOD:rel-github] or [Curseforge][MOD:rel-curseforge]. Also available on [CKAN][MOD:rel-ckan].  
 
-# Stack Inline Lights (SILP)  
+# Stack Inline Light Patches (SILP)  
 ## by [@zer0Kerbal][LINK:zer0kerbal]  
 ### Adss Stack Inline Lights to parts all with full color and brightness setup and in any sizes!
 ![Mod Version][shield:mod:latest] 
@@ -50,7 +50,7 @@ updated: 2020 03 16 -->
 - [x] [Transparent Command Pods Repressurized)(TCP)][thread:TCP]  
 - [x] [Stork Delivery System (SDS)][thread:SDS]
 - [x] [Biomatic][thread:BIO]
-- [x] [B9 Stock Switches (B9S)]  
+- [x] [B9 Stock Switches (B9S)][thread:B9S]  
 - [x] [Oh Scrap!][thread:OHS]:  
 - [x] [ScrapYard][thread:SYD]:  
 - [x] [DaMichel's AeroRadial][thread:DAR]  
