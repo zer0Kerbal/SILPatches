@@ -5,29 +5,26 @@ updated: 2020 03 16 -->
 
 ## Download on [SpaceDock][MOD:rel-spacedock] or [Github][MOD:rel-github] or [Curseforge][MOD:rel-curseforge]. Also available on [CKAN][MOD:rel-ckan].  
 
-# Stack Inline Lights (SILP)  
+# Stack Inline Light Patches (SILP)  
 ## by [@zer0Kerbal][LINK:zer0kerbal]  
-### Adss Stack Inline Lights to parts all with full color and brightness setup and in any sizes!
+### Adds Stack Inline Lights to parts all with full color and brightness setup and in any sizes!
 ![Mod Version][shield:mod:latest] 
 ![KSP version][shield:ksp] ![KSP-AVC][shield:kspavc] ![License MIT][shield:license] ![][LOGO:license]   
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
 ![Validate AVC .version files][shield:avcvalid]  
 ***
 ![SILPatches][IMG:hero:0]
+### Adds SIL to the following mods:
+- SimpleCargo by Axial Aerospace
+- Most stock (round) docking ports
+- PicoPorts
+- Shield Pico Ports
+- KerbodynePlus
+- Making History
 #### Cabin notes by [@alexustas][LINK:alexustas]:  
-- Thanks to XanderTek, and Kreuzung for their help!
-- included 2 samples of welding with Stock battery banks, FOR "SILPatchesRGB-v0.6" ONLY
-- Lights, welded with stock Docking Ports, by XanderTek
 - Please, leave your comments and suggestions. It is very important to me.
 - You can tweak values by editing the part.cfg or using a ModuleManager patch.  
-- This module can be added to other crewed parts directly or using a ModuleManager patch.  
 ***  
-#### Stack Inline Light' with full color and brightness setup and in any sizes!
-![View full album][ALBUM:one]  
-#### Lights, welded with stock Docking Ports, by XanderTek
-![View full album][ALBUM:two]  
-[![][UTUBE:img]][UTUBE:link]  
-*** 
 ### Installation Directions:
 - Use CKAN  
 ![][image:rel-ckan]
@@ -50,7 +47,7 @@ updated: 2020 03 16 -->
 - [x] [Transparent Command Pods Repressurized)(TCP)][thread:TCP]  
 - [x] [Stork Delivery System (SDS)][thread:SDS]
 - [x] [Biomatic][thread:BIO]
-- [x] [B9 Stock Switches (B9S)]  
+- [x] [B9 Stock Switches (B9S)][thread:B9S]  
 - [x] [Oh Scrap!][thread:OHS]:  
 - [x] [ScrapYard][thread:SYD]:  
 - [x] [DaMichel's AeroRadial][thread:DAR]  
@@ -64,9 +61,12 @@ updated: 2020 03 16 -->
 - [x] [Community Resource Pack][thread:crp]  
 - [x] [Bulb **Evolved**][thread:bulb]  
 ### Supports
-- [x] [Bulb *Evolved*][thread:bulb]  
-- [x] [TweakScale][thread:twk]  
+- [x] [PicoPort Shielded (PPS)][thread:PPS]  
+- [x] [Axial Aerospace SimpleCargo][thread:AAS]  
+- [x] [PicoPort][thread:pp]  
+- [x] [KerbodynePlus][thread:kb+]  
 - [x] [Kerbal Changelog][thread:kcl]  
+- [x] [Making History][KSP:website] Expansion 
 ### Conflicts
 - [x] none known
 ### Tags
@@ -180,11 +180,13 @@ License: ![License GPLv2][shield:license] ![][LOGO:license]
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"  
 [thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"  
 [thread:bulb]: https://forum.kerbalspaceprogram.com/index.php?/topic/191270-* "Bulb *Evolved*"
+[thread:pp] https://forum.kerbalspaceprogram.com/index.php?/topic/190319-18x-picoport-the-micro-docking-ports/ "PicoPort"  
+[thread:read:kb+] http://forum.kerbalspaceprogram.com/index.php?/topic/130809-105-kerbodyne-plus "Kerbodyne Plus"  
+        
+        
+[thread:rt]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "Link to how to get support"  
 
-[thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "Link to how to get support"  
-
-[LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zed'K"  
-[LINK:alexustas]:  https://forum.kerbalspaceprogram.com/index.php?/profile/78632-alexustas/ "alexustas"  
+[LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zed'K"   
 
 [UTUBE:img]:  https://img.youtube.com/vi/M4oEPicCZFU/0.jpg  
 [UTUBE:link]: https://youtu.be/M4oEPicCZFU "Stock Inline Lights (SIL)"  
@@ -192,8 +194,6 @@ License: ![License GPLv2][shield:license] ![][LOGO:license]
 [IMG:hero:0]: https://i.imgur.com/AkVuW8J.png "Stack Inline Lights (SIL)"  
 [IMG:hero:1]: https://i.imgur.com/wiWF3gQ.png "Stack Inline Lights (SIL)"  
 
-[ALBUM:one]: https://imgur.com/a/znbMm "Imgur Album 1: Stack Inline Light' with full color and brightness setup and in any sizes!"  
-[ALBUM:two]: https://imgur.com/a/Qqaik "Imgur Album 2: Lights, welded with stock Docking Ports, by XanderTek"
 
 [^1]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date* 
 
