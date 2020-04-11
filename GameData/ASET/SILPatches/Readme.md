@@ -21,7 +21,7 @@ updated: 2020 03 16 -->
 - Shield Pico Ports
 - KerbodynePlus
 - Making History
-#### Cabin notes by [@alexustas][LINK:alexustas]:  
+#### Cabin notes by [@zer0Kerbal][LINK:zer0kerbal]:  
 - Please, leave your comments and suggestions. It is very important to me.
 - You can tweak values by editing the part.cfg or using a ModuleManager patch.  
 ***  
@@ -73,7 +73,7 @@ updated: 2020 03 16 -->
  - mod, ksp, docking port, parts, CC, light
 ***  
 *red box below is a link to forum post on how to get support*  
-[![How to get support][image:get-support]][thread:getsupport] 
+[![][image:get-support]][thread:getsupport]  
 ### License
 #### aka Legal Mumbo Jumbo
 Source: [GitHub][MOD:github:repo]  
@@ -180,11 +180,10 @@ License: ![License GPLv2][shield:license] ![][LOGO:license]
 [thread:twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-* "TweakScale"  
 [thread:crp]: https://forum.kerbalspaceprogram.com/index.php?/topic/83007-* "Community Resource Pack"  
 [thread:bulb]: https://forum.kerbalspaceprogram.com/index.php?/topic/191270-* "Bulb *Evolved*"
-[thread:pp] https://forum.kerbalspaceprogram.com/index.php?/topic/190319-18x-picoport-the-micro-docking-ports/ "PicoPort"  
-[thread:read:kb+] http://forum.kerbalspaceprogram.com/index.php?/topic/130809-105-kerbodyne-plus "Kerbodyne Plus"  
-        
-        
-[thread:rt]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "Link to how to get support"  
+[thread:pp]: https://forum.kerbalspaceprogram.com/index.php?/topic/190319-18x-picoport-the-micro-docking-ports/ "PicoPort"  
+[thread:kb+]: http://forum.kerbalspaceprogram.com/index.php?/topic/130809-105-kerbodyne-plus "Kerbodyne Plus"  
+
+[thread:getsupport]: https://forum.kerbalspaceprogram.com/index.php?/topic/83212-* "Link to how to get support"  
 
 [LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zed'K"   
 
