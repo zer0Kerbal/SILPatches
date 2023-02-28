@@ -102,7 +102,7 @@ License: ![License GPLv2][shield:license] ![][LOGO:license]
 
 [MOD:rel-ckan]:      https://forum.kerbalspaceprogram.com/index.php?/topic/90246-* "CKAN"  
 [MOD:rel-github]:    https://github.com/zer0Kerbal/SILPatches/releases/latest "GitHub"  
-[MOD:rel-spacedock]: https://spacedock.info/mod/2370 "SpaceDock"  
+[MOD:rel-spacedock]: https://spacedock.info/mod/2400 "SpaceDock"  
 [MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/silp "CurseForge"  
 
 [image:rel-github]:     https://i.imgur.com/RE4Ppr9.png "GitHub"  
