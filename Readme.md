@@ -36,12 +36,12 @@ updated: 2020 03 16 -->
 - [x] [Kerbal Space Program][KSP:website] [![][shield:ksp]][KSP:website] ***may*** work on other versions ]/YMMV/
 - [x] [Stock Inline Lights][thread:SIL]  
 - [x] [Module Manager][thread:mm] [^1]  
-### Recomends  
+### Recommends  
 - [x] [Kerbal Changelog][thread:kcl]  
 - [x] [Docking Port Descriptions(DPD)][thread:DPD]  
 ### Suggests
 - [x] [PicoPort Shielded (PPS)][thread:PPS]  
-- [x] [On Demand Fuel Cells {ODFC)}][thread:ODFC]  
+- [x] [On Demand Fuel Cells (ODFC)}][thread:ODFC]  
 - [x] [Field Training Facility (FTF)][thread:FTF]  
 - [x] [Field Training Lab (FTL)][thread:FTL]  
 - [x] [Transparent Command Pods Repressurized)(TCP)][thread:TCP]  
