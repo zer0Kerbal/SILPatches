@@ -13,9 +13,6 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]  
 [![GitHub Pages][PAGES:shd]][pages]
 
-![Code][CODE:shd]
-
-
 # SILPatches (SILP)
 
 Adds [Stack Inline Lights (SIL)][SIL] to additional parts all with full color and brightness setup and in any sizes!
