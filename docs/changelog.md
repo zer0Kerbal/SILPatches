@@ -32,6 +32,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 ### Summary 1.0.1.0
 
 * Localize, lint, update
+* Add to Small Klaw
 
 ### Status
 
