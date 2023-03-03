@@ -26,8 +26,8 @@
 * Issues
   * closes #1 - SIL Patches (SILP) 1.0.1.0-release `<Space.Is.Dark.Bring More Light!!>` edition
   * closes #2 - 1.0.1.0 Additional Tasks
-* closes #3 - Localization - Master
-* updates #4 - English <en-us.cfg>
+* closes #4 - English <en-us.cfg>
+* updates #3 - Localization - Master
 
 ---
 
