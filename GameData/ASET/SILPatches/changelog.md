@@ -20,6 +20,7 @@
 ### Summary 1.0.1.0
 
 * Localize, lint, update
+* Add to Small Klaw
 
 ### Status
 
