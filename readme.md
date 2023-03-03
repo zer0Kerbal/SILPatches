@@ -129,7 +129,7 @@ config
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Original (ROOT) (0) - Author: [`AUTH-NAME`][auth-link]
+#### Original (ROOT) (0) - Author: [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
